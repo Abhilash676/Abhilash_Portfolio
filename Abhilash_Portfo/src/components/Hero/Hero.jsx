@@ -46,7 +46,7 @@ const AdvancedCursor = () => {
 };
 
 /* ── Typing hook ─────────────────────────────────────────────────── */
-const useTyping = (words, tMs=75, dMs=40, pMs=1800) => {
+const useTyping = (words, tMs=75, dMs=40, pMs=1href00) => {
   const [text,setText]=useState('');
   const [idx,setIdx]=useState(0);
   const [del,setDel]=useState(false);
@@ -316,7 +316,7 @@ const CommandCenter = () => {
 
         {/* ── Meta row: below the scene ── */}
         <motion.a
-          href="https://learning.ccbp.in/progress/public?uid=aec82096-1024-4dc8-911d-26f9f0d147b1"
+          href="https://github.com/AbhilashH676"
           target="_blank"
           rel="noopener noreferrer"
           className="cc-nxtwave"
