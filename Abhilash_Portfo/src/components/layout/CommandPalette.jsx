@@ -19,7 +19,7 @@ const COMMANDS = [
   /* Links */
   { name:'GitHub',       hint:'Source code',          href: CONTACT_DATA.github,     cat:'Connect',  icon:'G', external:true  },
   { name:'LinkedIn',     hint:'Professional profile', href: CONTACT_DATA.linkedin,   cat:'Connect',  icon:'in',external:true  },
-  { name:'NxtWave',      hint:'Verified certificates',href:'https://learning.ccbp.in/progress/public?uid=aec82096-1024-4dc8-911d-26f9f0d147b1', cat:'Connect', icon:'N', external:true },
+  { name:'Github',      hint:'View Github Profile',href:'https://github.com/Abhilash676', cat:'Connect', icon:'N', external:true },
 ];
 
 const CATEGORIES = ['Navigate','Action','Connect'];
