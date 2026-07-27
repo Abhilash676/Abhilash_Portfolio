@@ -46,7 +46,7 @@ const AdvancedCursor = () => {
 };
 
 /* ── Typing hook ─────────────────────────────────────────────────── */
-const useTyping = (words, tMs=75, dMs=40, pMs=1href00) => {
+const useTyping = (words, tMs=75, dMs=40, pMs=1000) => {
   const [text,setText]=useState('');
   const [idx,setIdx]=useState(0);
   const [del,setDel]=useState(false);
