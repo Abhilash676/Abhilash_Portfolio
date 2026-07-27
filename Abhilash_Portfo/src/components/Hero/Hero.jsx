@@ -328,8 +328,8 @@ const CommandCenter = () => {
           <div className="cc-nw-shine"/>
           <div className="cc-nw-icon"><HiCheckBadge/></div>
           <div className="cc-nw-text">
-            <span className="cc-nw-title">NxtWave Profile</span>
-            <span className="cc-nw-sub">Verified · View Learning Progress</span>
+            <span className="cc-nw-title">GitHub Profile</span>
+            <span className="cc-nw-sub">Open GitHub Profile</span>
           </div>
           <HiArrowTopRightOnSquare className="cc-nw-ext"/>
         </motion.a>
