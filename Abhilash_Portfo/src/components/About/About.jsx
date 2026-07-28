@@ -76,8 +76,8 @@ const About = () => (
               transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut', delay: 1 }}
             >
               <div className="about-badge-glass">
-                <div className="about-badge-label">Degree</div>
-                <div className="about-badge-value">B.Tech — IT</div>
+                <div className="about-badge-label">B.E</div>
+                <div className="about-badge-value">CSE</div>
               </div>
             </motion.div>
           </div>
